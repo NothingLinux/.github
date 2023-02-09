@@ -15,3 +15,5 @@ PACKAGE-MANAGER-TYPE = Ports
 KERNEL = Linux Little modififed (software addition for kernel named "Kepair")
 
 OTHER-COMMENTS = NO
+
+Official website: https://github.com/NothingLinux/NothingLinuxWebsite
