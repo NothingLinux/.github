@@ -10,6 +10,8 @@ DE = NONE
 
 WM = NONE
 
+FUN FACT: This distro is from poland so it's polish distro but for all peoples no only for polish people
+
 PACKAGE-MANAGER-TYPE = Ports
 
 KERNEL = Linux Little modififed (software addition for kernel named "Kepair")
