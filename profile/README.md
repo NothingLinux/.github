@@ -12,6 +12,6 @@ WM = NONE
 
 PACKAGE-MANAGER-TYPE = Ports
 
-KERNEL = Linux Little modififed (software addition for kernel)
+KERNEL = Linux Little modififed (software addition for kernel named "Kepair")
 
 OTHER-COMMENTS = NO
