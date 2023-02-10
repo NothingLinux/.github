@@ -14,6 +14,8 @@ FUN FACT: This distro is from poland so it's polish distro but for all peoples n
 
 PACKAGE-MANAGER-TYPE = Ports
 
+SYSTEM-INIT=RUNIT
+
 KERNEL = Linux Little modififed (software addition for kernel named "Kepair")
 
 OTHER-COMMENTS = NO
