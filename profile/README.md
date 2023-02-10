@@ -1,5 +1,5 @@
 ## About Nothing Linux ##
-Nothing Linux is a linux distribution in under construction and is a rolling release with package manager named "TurboPorts" beacause is a ports.
+Nothing Linux is a linux distribution in under construction and is a rolling release with package manager named "TurboPorts" because is a ports.
 in short nothing linux is
 
 PACKAGE-MANAGER = TurboPorts
@@ -14,7 +14,7 @@ FUN FACT: This distro is from poland so it's polish distro but for all peoples n
 
 PACKAGE-MANAGER-TYPE = Ports
 
-SYSTEM-INIT=RUNIT
+SYSTEM-INIT = RUNIT
 
 KERNEL = Linux Little modififed (software addition for kernel named "Kepair")
 
