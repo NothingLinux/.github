@@ -20,4 +20,5 @@ KERNEL = Linux Little modififed (software addition for kernel named "Kepair")
 
 OTHER-COMMENTS = NO
 
-Official website: https://nothinglinux.github.io/NothingLinuxWebsite/
+Official website: https://nothinglinux.github.io/NothingLinuxWebsite/index.html
+
